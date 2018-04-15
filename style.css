@@ -1,0 +1,13 @@
+﻿body {
+}
+.top-left{
+    font-family:'Microsoft Himalaya';
+    font-size:13px;
+    text-align:left;
+    
+}
+.top-right{
+    font-family:'Times New Roman', Times, serif;
+    font-size:medium;
+    text-align:right;
+}
