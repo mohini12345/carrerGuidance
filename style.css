@@ -1,13 +1,50 @@
-﻿body {
-}
-.top-left{
-    font-family:'Microsoft Himalaya';
-    font-size:13px;
-    text-align:left;
+body {
+    background-color:lavender;
     
 }
-.top-right{
+y {
+    font-family:'Times New Roman';
+    font-size:50px;
+    text-align:center;
+}
+b{
+        
     font-family:'Times New Roman', Times, serif;
     font-size:medium;
-    text-align:right;
+    text-align:center;
+    
 }
+.x{
+    text-align:center;
+    color:black;
+    background-color:cornflowerblue;
+    font-size:25px;
+}
+h1{
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+}
+z {
+    color: black;
+    font-size: 20px;
+    font-family:cursive;
+}
+qq {
+    font-size: 20px;
+    font-family:Cambria;
+    color: crimson;
+    
+}
+}
+.ii {
+    background-color:aqua;
+    border-style:1px solid black;
+    align-self: center;
+
+}
+#sb{
+    padding:10px;
+    background-color:cornflowerblue;
+    align-content:center;
+}
+   
